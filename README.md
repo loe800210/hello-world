@@ -1,4 +1,4 @@
 # hello-world
-For begining of github
-Commit by Loe
+Begining of github, 
+commited by Loe
 
